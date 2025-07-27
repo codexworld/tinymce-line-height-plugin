@@ -33,3 +33,5 @@ tinymce.init({
     ...
 });
 ```
+
+Go to [our website](https://www.codexworld.com/tag/tinymce/) to get the step-by-step tutorial and download the source code. 
